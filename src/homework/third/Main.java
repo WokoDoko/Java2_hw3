@@ -13,7 +13,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-        //ArrayList<String> taskNote = new ArrayList<>(Arrays.asList("A", "A", "A", "A", "A", "B", "B", "B", "B", "B", "A", "A", "A", "A", "B", "B", "B"));
+        //ArrayList<String> taskNote = new ArrayList<>(Arrays.asList("A", "A", "A", "A", "A", "B", "B", "B", "B", "B", "A", "A", "A", "A", "B", "B", "B")); тут я пытался через итератор, но у меня не вышло
         String [] taskNote = new String[] {"A", "A", "C", "A", "D", "B", "B", "B", "C", "B", "A", "D", "A", "C", "B", "B", "D"};
 
 
